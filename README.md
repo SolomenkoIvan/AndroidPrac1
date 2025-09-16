@@ -1,13 +1,13 @@
 2048 Game (Android)
 Як зібрати та запустити
 -------------------------
-Відкрити проєкт у Android Studio.
+1.Відкрити проєкт у Android Studio.
 
-Переконатися, що встановлені JDK 8 та Android SDK (рекомендовано compileSdk 33, targetSdk 33).
+2.Переконатися, що встановлені JDK 8 та Android SDK (рекомендовано compileSdk 33, targetSdk 33).
 
-Синхронізувати Gradle (кнопка Sync Project with Gradle Files).
+3.Синхронізувати Gradle (кнопка Sync Project with Gradle Files).
 
-Запустити проєкт на емуляторі або реальному пристрої (Run → Run 'app').
+4.Запустити проєкт на емуляторі або реальному пристрої (Run → Run 'app').
 
 **Що було оновлено:**
 
